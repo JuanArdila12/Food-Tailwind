@@ -6,6 +6,11 @@ module.exports = {
       colors: {
         'primary': '#f3c614',
         'second': '#353535'
+      },
+      height: {
+        '80':'20rem',
+        '100':'25rem',
+        '120':'30rem'
       }
     },
   },
