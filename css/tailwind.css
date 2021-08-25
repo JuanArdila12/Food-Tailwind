@@ -16,3 +16,7 @@
 .btn-form{
     @apply rounded shadow-xl px-4 py-2 mx-auto block bg-gray-500 hover:shadow-none hover:bg-gray-700 hover:text-white
 }
+
+.btn-primary{
+    @apply rounded shadow--x1 px4 py-2 mx-auto bg-primary
+}
